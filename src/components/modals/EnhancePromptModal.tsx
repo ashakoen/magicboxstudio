@@ -179,7 +179,7 @@ export function EnhancePromptModal({
                                             onGenerate?.();
                                         }}
                                     >
-                                        Try It Out!
+                                        Use It!
                                     </Button>
                                 </div>
                             </div>
